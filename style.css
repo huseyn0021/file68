@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-position: center;
+    font-family: 'Istok Web', sans-serif;
+    background-color: #f7f7f7;
+}
+
+.email {
+    margin-left: 50px;
+}
+
+.phone {
+    margin-left: 50px;
+}
+
+.email {
+    margin-left: 50px;
+}
+
+form {
+    width: 29.5%;
+    height: 460px;
+    margin-left: 38%;
+    margin-top: 70px;
+    border: none;
+    background-color: #f7f7f7;
+    padding: 10px;
+    border: 2px solid rgb(161, 161, 161);
+    box-shadow: 0 0 30px rgba(128, 127, 127, 0.719);
+    border-radius: 3px;
+}
+
+form div:nth-child(1) {
+    color: white;
+}
+
+::placeholder {
+    color: rgb(161, 161, 161);
+}
+
+input {
+    width: 89%;
+    margin: 15px 0;
+    background: none;
+    padding: 10px;
+    border: 1px solid rgb(211, 211, 211);
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: -0px;
+    background-color: white;
+
+}
+
+.inpDiv1 input {
+    background: white;
+    padding: 10px;
+    border: 1px solid rgb(211, 211, 211);
+    margin-top: 100px;
+}
+
+.inpDiv3 input {
+    width: 70%;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+
+.container .inpDiv2 input {
+    width: 86%;
+    margin-left: 10px;
+    margin-top: 40px;
+    padding: 10px;
+    border: 1px solid rgb(170, 170, 170);
+    outline: none;
+}
+
+.icon1 {
+    position: absolute;
+    color: #7c7f86;
+    font-size: large;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.icon2 {
+    position: absolute;
+    color: #7c7f86;
+    font-size: large;
+    margin-left: 32px;
+    margin-top: 10px;
+}
+
+.icon3 {
+    position: absolute;
+    color: #7c7f86;
+    font-size: large;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+.icon4 {
+    position: absolute;
+    color: #7c7f86;
+    font-size: 25px;
+    margin-left: 225px;
+    margin-top: 2px;
+}
+
+.div {
+    position: absolute;
+    background-color: #e8ecef;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    width: 5.5%;
+    height: 36.5px;
+    margin-top: -53px;
+    margin-left: 348px;
+}
+
+.i1 {
+    margin-top: 190px;
+}
+
+.b1:hover {
+    border: 1.5px solid #2291bf;
+    background-color: #0179ff;
+}
+
+.b2:hover {
+    border: 1.5px solid #2291bf;
+    background-color: #0179ff;
+}
+
+.b3:hover {
+    border: 1.5px solid #2291bf;
+    background-color: #0179ff;
+}
+
+.btnDiv2 button:hover p {
+    color: white !important;
+}
+
+.btnDiv2 button {
+    margin-top: 12px;
+    background-color: #f8f9fb;
+}
+
+
+.btnDiv2 {
+    background: white;
+    position: absolute;
+    width: 460px;
+    height: 70px;
+    margin-top: -20px;
+}
+
+.btnDiv button {
+    width: 80%;
+    height: 45px;
+    margin: 15px 0;
+    background: #0d6efd;
+    color: white;
+    padding: 10px;
+    border: 1px solid rgb(211, 211, 211);
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.btnDiv {
+    border-top: 1px solid rgb(158, 158, 158);
+    background: #ecf0f1;
+    position: absolute;
+    width: 430px;
+    height: 85px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.b1 {
+    position: absolute;
+    width: 138px;
+    margin-left: 20px;
+    margin-top: -5px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1.5px solid #dfdfdf;
+    background-color: white;
+    cursor: pointer;
+}
+
+.b2 {
+    position: absolute;
+    width: 138px;
+    margin-left: 160px;
+    margin-top: -5px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1.5px solid #dfdfdf;
+    background-color: white;
+    cursor: pointer;
+}
+
+.b3 {
+    position: absolute;
+    width: 138px;
+    margin-left: 300px;
+    margin-top: -5px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1.5px solid #dfdfdf;
+    background-color: white;
+    cursor: pointer;
+}
